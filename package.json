@@ -1,0 +1,9 @@
+{
+  "name": "hg-split",
+  "version": "0.1.0",
+  "description": "split hg commits by files",
+  "bin": "hg-split.sh",
+  "author": "xixixao",
+  "license": "MIT",
+  "dependencies": {}
+}
